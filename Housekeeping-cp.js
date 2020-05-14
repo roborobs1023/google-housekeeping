@@ -149,7 +149,7 @@ function GetFolderByDate() {
     }
     
     //Send email to Administrator - Replace email with that of the desired contact. Email will come from the google account associated with the script.
-    var recipient = "rtucker@cmslaser.com";
+    var recipient = "example@example.com";
     var subject = 'Folders to be Removed from Google Drive on ' + strRemovalDate;
     var body = Logger.getLog();
     MailApp.sendEmail(recipient, subject, body);
