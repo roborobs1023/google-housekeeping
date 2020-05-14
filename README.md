@@ -12,7 +12,7 @@ In order for this script to work it must be implemented at https://script.google
 2. Replace Folder ID in the arrSearchFolders array with one found in the URL of your google drive folder. Line 45
 3. Replace Templates with the folder which contains your template documents. Line: 67
 4. Change email address for recipeint of logs. Line 152
-5. Setup Triggers at https://script.google.com to run DeleteFolderByDate Function on desired schedule.  
+5. Setup Triggers at https://script.google.com/home/triggers to run DeleteFolderByDate Function on desired schedule.  
 
 ## Contributing
 
