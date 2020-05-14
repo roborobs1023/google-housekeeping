@@ -1,3 +1,5 @@
 *.bat
 *.log
 Housekeeping.js
+clasp.json
+appscript.json
