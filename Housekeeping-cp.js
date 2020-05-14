@@ -42,7 +42,7 @@ function GetFolderByDate() {
   
   //Replace FolderIDs iin arrSearchFolderIDs with IDs of the folders you wish to search within. This can be obtained by going to your desired folder and copying everything in the URL after https://drive.google.com/drive/folders/
   
-  var arrSearchFolderIDs = ['1Lhv1roc77_-iOEAkPMQG3O6xeaOd034X','17Lj8wUSGy21_RIycBG9YkRJOvqSVpGi1'];
+  var arrSearchFolderIDs = ['FolderID'];
   
   Logger.log('\n' + 'CullDate: ' + strCullDate + '\n');
   
