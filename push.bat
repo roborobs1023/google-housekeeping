@@ -1,8 +1,6 @@
 @echo off
-PROMPT [CommitMessage]
-
+set /p Message=Enter Commit Message:
 ::clasp push
-git add .
-prompt CommitMessage$G 
-git commit -m CommitMessage
+git add . 
+git commit -am %Message%
 git push
