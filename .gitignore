@@ -1,6 +1,5 @@
 *.bat
 *.log
-Housekeeping.js
 CMS[*].js
 .clasp.json
 .claspignore
