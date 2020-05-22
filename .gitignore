@@ -1,6 +1,7 @@
 *.bat
 *.log
 Housekeeping.js
+CMS*
 .clasp.json
 .claspignore
 appsscript.json
