@@ -1,6 +1,6 @@
 *.bat
 *.log
-CMS[*].js
+CMS*.js
 .clasp.json
 .claspignore
 appsscript.json
