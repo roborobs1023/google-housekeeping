@@ -2,4 +2,6 @@
 *.log
 Housekeeping.js
 .clasp.json
+.claspignore
 appsscript.json
+scratchfile.txt
